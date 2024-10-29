@@ -1,0 +1,16 @@
+-   `UserName@MachineName:~$`
+    -   当前位置为：`~`
+    -   `$`表示当前身份不是 root 用户
+-   `date`
+-   `echo`
+    -   `\ `，用于转义空格
+    -   Shell 是基于空格分隔命令进行解析的
+-   `$path`
+-   `which`，查询程序对应地址
+-    Linux 和 macOS 上使用`/`分割路径，而在 Windows 使用`\`分割路径
+    -   Linux 下，如果路径以`/`开头，为绝对路径；反之其余，为相对路径
+    -   在路径中，`.` 表示的是当前目录，而 `..` 表示上级目录
+-   `pwd`，print working directory，打印当前工作目录
+-   `cd`，change directory，切换目录
+-   `ls`，list，列出当前目录下包含的文件
+-   
