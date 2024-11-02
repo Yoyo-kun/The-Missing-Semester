@@ -2,6 +2,6 @@ Considering that The Missing Semester already has comprehensive notes available 
 
 鉴于 The Missing Semester 已经有了相当完善的笔记（自行去课程网站找：[https://missing-semester-cn.github.io/](https://missing-semester-cn.github.io/)），我这个笔记就是类似于知识点总结 —— 用于复习和快速查找用的。
 
-Update approximately once a week.
+I aim to update this note approximately once a week.
 
-大约每周更新一次。
+我计划每周更新此笔记。
